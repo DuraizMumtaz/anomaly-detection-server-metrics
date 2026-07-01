@@ -1,0 +1,10 @@
+,value
+model,Anomaly Transformer
+threshold,53.644684
+precision,0.2031
+recall,0.2149
+f1_score,0.2088
+TP,13210
+FP,51846
+TN,592319
+FN,48273

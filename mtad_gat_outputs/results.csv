@@ -1,0 +1,10 @@
+,value
+model,MTAD-GAT
+threshold,0.010081
+precision,0.2135
+recall,0.141
+f1_score,0.1698
+TP,8668
+FP,31924
+TN,612241
+FN,52815

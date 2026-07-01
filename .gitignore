@@ -1,0 +1,21 @@
+# Large data files - too big for GitHub
+SMD_CSV/
+preprocessed_data/
+
+# Model checkpoints (large binary files)
+lstm_vae_outputs/best_model.pt
+anomaly_transformer_outputs/best_model.pt
+mtad_gat_outputs/best_model.pt
+
+# Python virtual environment
+venv/
+
+# macOS system files
+.DS_Store
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
